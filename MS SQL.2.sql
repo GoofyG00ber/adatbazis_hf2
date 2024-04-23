@@ -1,0 +1,3 @@
+EXECUTE AS User= 'proba';
+SELECT * FROM Vendeg
+REVERT
